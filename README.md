@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @divakar932
-- 👀 I’m interested in competetive coding, web development, playing cricket too..xd.
+- 👀 I’m interested in competetive coding, web development.
 - 🌱 I’m currently learning data structures and algorithm
-- 💞️ I’m looking to collaborate on 
+- 
 - 📫 How to reach me- you can contact through my mail i'd  sdivakar932@gmail.com
 
 <!---
